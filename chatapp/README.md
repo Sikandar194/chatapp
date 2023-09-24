@@ -1,6 +1,12 @@
 # chatapp
 
-A new Flutter project.
+A Flutter project to create a chat app like Whatsapp.
+Firebase is used.
+
+# For both:
+IO's
+Android
+
 
 ## Getting Started
 
